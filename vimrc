@@ -1,3 +1,16 @@
+" vundle setup
+set nocompatible
+filetype off
+
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+Plugin 'gmarik/vundle.vim'
+Plugin 'Valloric/YouCompleteMe'
+
+call vundle#end()
+filetype plugin indent on
+
 " Tab settings
 set expandtab
 set tabstop=4
