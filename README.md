@@ -13,3 +13,5 @@ List of dev tools that I like having installed.
 - vim
 - tree
 - prettier
+- gpg-suite
+- gh
