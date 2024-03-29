@@ -38,8 +38,8 @@ HISTSIZE=4096
 # requires installation of fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-export PYENV_ROOT="$HOME/.pyenv"
-command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
+#export PYENV_ROOT="$HOME/.pyenv"
+#command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+#eval "$(pyenv init -)"
 
 alias ghc="gh copilot suggest"
