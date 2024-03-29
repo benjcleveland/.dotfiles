@@ -1,6 +1,4 @@
-# dotfiles
-
-Dot files
+# Dot Files
 
 GNU stow can be used for easy setup of the dotfiles. Inspiration
 [here](https://dr563105.github.io/blog/manage-dotfiles-with-gnu-stow/).

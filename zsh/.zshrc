@@ -43,3 +43,5 @@ HISTSIZE=4096
 #eval "$(pyenv init -)"
 
 alias ghc="gh copilot suggest"
+
+export GPG_TTY=$(tty)

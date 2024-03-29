@@ -1,2 +1,4 @@
 [user]
 	email = ben.j.cleveland@gmail.com
+[commit]
+	gpgsign = true
