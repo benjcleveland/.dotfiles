@@ -6,7 +6,7 @@ GNU stow can be used for easy setup of the dotfiles. Inspiration
 Simply run `stow <dir-name>` example `stow vim` and the links to the dot files
 will automagically be setup.
 
-## Tools
+## Dev Tools
 
 List of dev tools that I like having installed.
 
