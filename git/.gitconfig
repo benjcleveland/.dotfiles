@@ -1,4 +1,6 @@
 [user]
-	email = ben.j.cleveland@gmail.com
+	email = 558829+benjcleveland@users.noreply.github.com
 [commit]
 	gpgsign = true
+[gpg]
+	program = gpg
