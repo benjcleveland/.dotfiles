@@ -10,8 +10,8 @@ will automagically be setup.
 
 List of dev tools that I like having installed.
 
--   vim
--   tree
--   prettier
--   gpg-suite
--   gh
+- vim
+- tree
+- prettier
+- gpg-suite
+- gh
